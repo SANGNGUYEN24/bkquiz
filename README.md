@@ -1,4 +1,4 @@
-# quiz-maker
+# Quiz Maker is an application for making quizzes
 ## Quiz Maker for Android
 
 You can download version 2.0 here: [Download Quiz Maker](https://appdistribution.firebase.dev/i/83bec178745c2adf)
