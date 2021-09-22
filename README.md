@@ -1,7 +1,7 @@
 # Quiz Maker is an application for making quizzes
 ## Quiz Maker for Android
 
-> This version is for testing, you have not delete the quiz yet, sth maybe confused. I will release next version soon (～￣▽￣)～ 
+> This version is for testing, you have not delete the quiz yet, sth maybe confusing. I will release next version soon (～￣▽￣)～ 
 
 You can download version 2.0 here: [Download Quiz Maker](https://appdistribution.firebase.dev/i/83bec178745c2adf)
 
