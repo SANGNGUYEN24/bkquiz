@@ -1,7 +1,7 @@
 # BKQuiz is an application for making quizzes
 ## BKQuiz for Android
 
-> This version is for testing, you have not delete the quiz yet, sth maybe confusing. I will release next version soon (～￣▽￣)～ 
+> This version is for testing. I will release next version soon (～￣▽￣)～ 
 
 You can download BKQuiz here: [Download BKQuiz](https://appdistribution.firebase.dev/i/83bec178745c2adf)
 
