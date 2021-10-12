@@ -7,7 +7,7 @@ You can download BKQuiz here: [Download BKQuiz](https://appdistribution.firebase
 
 If you have any feedback please send it to: sangnguyendinh24work@gmail.com
 
-_p/s: I changed app name to BKQuiz._
+_p/s: I changed app name form QuizMaker to BKQuiz._
 
 Thank you!
 
