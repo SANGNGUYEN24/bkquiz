@@ -1,4 +1,10 @@
 # BKQuiz is an application for making quizzes
+
+
+https://user-images.githubusercontent.com/78266241/140033307-d2a6e144-2058-41d2-862f-b03821ce15d3.mp4
+
+
+
 ## BKQuiz for Android
 
 > This version is for testing. I will release next version soon (～￣▽￣)～ 
